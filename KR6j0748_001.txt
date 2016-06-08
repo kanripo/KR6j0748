@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:57.423827
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:53
 #+TITLE: 金胎兩界師資相承
 #+PROPERTY: CBETA_ID X59n1073
 #+PROPERTY: ID KR6j0748
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 59, No. 1073
 #+PROPERTY: VOL 59
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0748_X_001-0212a> 
 #+PROPERTY: JUAN 1
-No.1073¶
+No. 1073¶
+金胎兩界師相承¶
 
- 金胎兩界師相承¶
-
-金剛界¶
+* 金剛界¶
 
   
   * 遮那¶
@@ -90,7 +89,7 @@ No.1073¶
 批云巨唐大和八年歲在甲寅仲秋月二十日¶
 淨住寺梵字傳教沙門　海雲　集¶
 
-胎藏界¶
+* 胎藏界¶
 
   
   * 遮那¶
